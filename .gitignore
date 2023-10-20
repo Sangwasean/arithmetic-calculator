@@ -20,4 +20,31 @@
 /.idea/
 .project
 .cproject
-.s
+/.suo
+/.user
+/.DS_Store
+
+# Temporary or Backup Files
+*~
+*.swp
+*.swo
+.clangd/
+
+# Log Files
+*.log
+
+# User-Specific Configuration Files
+.userprefs
+.user.settings
+.project.user
+
+# Documentation and Generated Documentation
+/doc/
+/html/
+/latex/
+
+# Compiler or Build Tool Output
+CMakeFiles/
+.vs/
+.clang/
+
