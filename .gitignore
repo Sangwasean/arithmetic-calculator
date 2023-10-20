@@ -1,0 +1,23 @@
+# Compiled Object Files
+*.o
+*.out
+
+# Compiled Binaries
+*.exe
+*.out
+
+# Build Directories
+/build/
+/bin/
+/out/
+
+# Dependency and Package Directories
+/lib/
+/vendor/
+
+# IDE and Editor-Generated Files
+/.vscode/
+/.idea/
+.project
+.cproject
+.s
