@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "C:/Users/user/CLionProjects/Calculator/cmake-build-debug",
-		"source" : "C:/Users/user/CLionProjects/Calculator"
+		"build" : "C:/Users/user/CLionProjects/arithmetic-calculator/cmake-build-debug",
+		"source" : "C:/Users/user/CLionProjects/arithmetic-calculator"
 	},
 	"version" : 
 	{

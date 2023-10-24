@@ -22,8 +22,16 @@ int main() {
             std::cout<<a<<" * "<<b <<"="<< a*b<<std::endl;
             break;
         case '/':
+            if (b == 0) {
+                std::cout << "Undefined" << std::endl;
+
+                std::cin.clear();
+            }
 
             std::cout<<a<<" / "<<b <<"="<< a/b <<std::endl;
+            break;
+        default:
+            std::cout<<"Invalid operator entered"<<std::endl;
             break;
     }
     return 0;
